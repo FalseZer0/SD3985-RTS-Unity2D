@@ -1,8 +1,8 @@
 # SD3985_Final - "You knew how to rob here is a reminder"
 #
 
-#
-# https://www.designandmake.org/pages/viewpage.action?pageId=128151524 
+# Game itself - https://shortest.link/1z2z
+# Demo and related - https://www.designandmake.org/pages/viewpage.action?pageId=128151524 
 
 #
 # **Game Overview**
