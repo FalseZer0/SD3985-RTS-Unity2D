@@ -2,7 +2,7 @@
 #
 
 #
-# **https://www.designandmake.org/pages/viewpage.action?pageId=128151524 **
+# https://www.designandmake.org/pages/viewpage.action?pageId=128151524 
 
 #
 # **Game Overview**
