@@ -1,8 +1,10 @@
 # SD3985_Final - "You knew how to rob here is a reminder"
 #
-
+Credits: Kairat (me), JerryCho Tanaya, Huang Shao Chi 
 # Game itself - https://shortest.link/1z2z
-# Demo and related - https://www.designandmake.org/pages/viewpage.action?pageId=128151524 
+# Demo walkthrough - https://www.youtube.com/watch?v=u82lKlfP84A
+or
+https://www.designandmake.org/pages/viewpage.action?pageId=128151524 
 
 
 ![image3](https://user-images.githubusercontent.com/58328457/140486408-5cb9d85e-88e1-488c-a67c-d40cfacd3975.png)
